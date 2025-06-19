@@ -1,1 +1,1 @@
-/Users/zhaoran/Projects/rust_self_study/target/debug/rust_self_study: /Users/zhaoran/Projects/rust_self_study/main.rs
+/Users/zhaoran/Projects/stu_hour_calculator/target/debug/rust_self_study: /Users/zhaoran/Projects/stu_hour_calculator/main.rs
