@@ -1,0 +1,11 @@
+[package]
+name = "rust_self_study"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.41"
+
+[[bin]]
+name = "rust_self_study"
+path = "main.rs"
